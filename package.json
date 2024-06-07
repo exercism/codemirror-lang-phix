@@ -22,8 +22,8 @@
     "lint": "eslint --ext .js,.vue src index.js"
   },
   "repository": {
-    "url": "git@github.com:optick/codemirror-mode-phix.git",
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/exercism/codemirror-lang-phix"
   },
   "author": "Ian Walter <public@iankwalter.com>",
   "license": "MIT",
