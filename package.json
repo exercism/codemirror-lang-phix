@@ -25,6 +25,9 @@
     "type": "git",
     "url": "https://github.com/exercism/codemirror-lang-phix"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Ian Walter <public@iankwalter.com>",
   "license": "MIT",
   "peerDependencies": {
