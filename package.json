@@ -1,5 +1,5 @@
 {
-  "name": "@exercism/codemirror-mode-phix",
+  "name": "@exercism/codemirror-lang-phix",
   "version": "0.1.0",
   "description": "A CodeMirror mode for the Phix language",
   "keywords": [
